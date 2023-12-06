@@ -1,8 +1,8 @@
-import { lazy, Suspense } from 'react';
+import { lazy } from 'react';
 import Layout from '../components/Layout';
 
-const ArtikelGemeinsam = lazy(() => import('../components/Artikel_gemeinsam'));
-const RenderLoader = <p>Loading ...</p>;
+// const ArtikelGemeinsam = lazy(() => import('../components/Artikel_gemeinsam'));
+// const RenderLoader = <p>Loading ...</p>;
 
 // Images for Gallery loaded from JSON-Path always put in public folder
 

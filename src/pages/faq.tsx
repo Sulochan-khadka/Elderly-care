@@ -1,8 +1,8 @@
 import { lazy, Suspense } from 'react';
-import image1 from '../assets/images/Küche.jpg';
-import image2 from '../assets/images/Qualitätsaspekte.jpg';
-import image3 from '../assets/images/Dokumentation.jpg';
-import image4 from '../assets/images/Kosten.jpg';
+// import image1 from '../assets/images/Küche.jpg';
+// import image2 from '../assets/images/Qualitätsaspekte.jpg';
+// import image3 from '../assets/images/Dokumentation.jpg';
+// import image4 from '../assets/images/Kosten.jpg';
 import Layout from '../components/Layout';
 
 const Accordion = lazy(() => import('../components/Accordion'));

@@ -1,8 +1,8 @@
-import downloadStyles from '../styles/download.module.css';
-import MitgliedsantragPDF from '../assets/images/Mitgliedsantrag_interaktiv.pdf';
-import MitgliedsantragFoerderPDF from '../assets/images/Mitgliedsantrag_Foerdermitglied_interaktiv.pdf';
-import MalwettbewerbPDF from '../assets/images/Malwettbewerb_2023.pdf';
-import iconPDF from '../assets/images/pdf.svg';
+// import downloadStyles from '../styles/download.module.css';
+// import MitgliedsantragPDF from '../assets/images/Mitgliedsantrag_interaktiv.pdf';
+// import MitgliedsantragFoerderPDF from '../assets/images/Mitgliedsantrag_Foerdermitglied_interaktiv.pdf';
+// import MalwettbewerbPDF from '../assets/images/Malwettbewerb_2023.pdf';
+// import iconPDF from '../assets/images/pdf.svg';
 import Layout from '../components/Layout';
 
 function Download() {

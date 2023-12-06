@@ -1,8 +1,8 @@
 import Blockquote from '../components/Blockquote';
-import stepLogo from '../assets/images/StepLogo.svg';
+// import stepLogo from '../assets/images/StepLogo.svg';
 import emailIcon from '../assets/images/email.svg';
 import elder from '../assets/images/noun-son-and-elderly-father-2762744.svg';
-import dreiKinder from '../assets/images/dreiKinder.svg';
+// import dreiKinder from '../assets/images/dreiKinder.svg';
 import careoldage from '../assets/images/2119136_278281-P6744O-575.svg';
 import homeStyles from '../styles/home.module.css';
 import Layout from '../components/Layout';
