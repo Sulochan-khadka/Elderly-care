@@ -1,0 +1,36 @@
+footer {
+  margin-top: auto;
+  margin-bottom: 9rem;
+}
+
+@media screen and (min-width: 1024px) {
+  footer {
+    margin-bottom: 2rem;
+  }
+}
+
+.footerListItems {
+  display: flex;
+  flex-flow: wrap;
+  gap: 1rem;
+  padding-inline: var(--p-md);
+  color: rgb(var(--col-muted));
+  margin-top: 3rem;
+  margin-bottom: 0;
+}
+
+.footerListItems a {
+  color: rgb(var(--col-muted));
+}
+
+.footerListItems a:not(.footerLinkSelfPromo a) {
+  text-decoration: none;
+}
+
+.footerListItems a:visited {
+  color: rgb(var(--col-muted));
+}
+
+.footerLink :not(:last-child) {
+  margin-bottom: 0.5rem;
+}
