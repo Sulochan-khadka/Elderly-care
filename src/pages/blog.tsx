@@ -1,4 +1,4 @@
-import { lazy } from 'react';
+// import { lazy } from 'react';
 import Layout from '../components/Layout';
 
 // const ArtikelGemeinsam = lazy(() => import('../components/Artikel_gemeinsam'));
